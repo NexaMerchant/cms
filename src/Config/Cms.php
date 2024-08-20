@@ -39,7 +39,7 @@ return [
      * 
      * The description of the package
      */
-    'description' => '',
+    'description' => 'Nexa Merchant CMS Package',
 
     /**
      * 
