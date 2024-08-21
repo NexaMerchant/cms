@@ -3,6 +3,10 @@
     "license": "MIT",
     "type": "library",
     "description" : "Cms Apps",
+    "keywords": ["cms", "laravel", "nexa-merchant", "apps", "package"],
+    "suggest": {
+        "nexa-merchant/core": "NexaMerchant Core Package"
+    },
     "authors": [
         {
             "name": "Steve",
