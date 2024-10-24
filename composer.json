@@ -5,7 +5,9 @@
     "description" : "Cms Apps",
     "keywords": ["cms", "laravel", "nexa-merchant", "apps", "package"],
     "suggest": {
-        "nexa-merchant/core": "NexaMerchant Core Package"
+        "nexa-merchant/core": "NexaMerchant Core Package",
+        "nexa-merchant/auth": "NexaMerchant Auth Package",
+        "nexa-merchant/merchant": "NexaMerchant Merchant Package"
     },
     "authors": [
         {
