@@ -2,7 +2,7 @@
     "name": "nexa-merchant/cms",
     "license": "MIT",
     "type": "library",
-    "description" : "Cms Apps",
+    "description" : "Cms Apps Package for NexaMerchant",
     "keywords": ["cms", "laravel", "nexa-merchant", "apps", "package"],
     "suggest": {
         "nexa-merchant/core": "NexaMerchant Core Package",
