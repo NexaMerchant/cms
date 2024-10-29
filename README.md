@@ -2,11 +2,10 @@
 
 > NexaMerchant Cms is a Laravel package that provides a simple and easy way to manage your content.
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/Nexa-Merchant/cms.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/cms)
-[![Total Downloads](https://img.shields.io/packagist/dt/Nexa-Merchant/cms.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/cms)
-
 [![Build Status](https://github.com/NexaMerchant/cms/workflows/Laravel/badge.svg)](https://github.com/NexaMerchant/cms)
 [![Release](https://img.shields.io/github/release/NexaMerchant/cms.svg?style=flat-square)](https://github.com/NexaMerchant/cms/releases)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Nexa-Merchant/cms.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/cms)
+[![Total Downloads](https://img.shields.io/packagist/dt/Nexa-Merchant/cms.svg?style=flat-square)](https://packagist.org/packages/Nexa-Merchant/cms)
 
 # How to Install
 
