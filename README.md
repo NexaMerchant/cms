@@ -1,5 +1,8 @@
 # NexaMerchant/Cms
 
+[![Build Status](https://github.com/NexaMerchant/cms/workflows/Laravel/badge.svg)](https://github.com/NexaMerchant/cms)
+[![Release](https://img.shields.io/github/release/NexaMerchant/cms.svg?style=flat-square)](https://github.com/NexaMerchant/cms/releases)
+
 # How to Install
 
 
